@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on enhancing my skills in Golang, Linux, and Cloud Technologies.  <br> 💬 Ask me about web application security  <br> ⚡ I'm passionate about technology and I also enjoy working with IoT devices in my free time. 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hac%C4%B1a%C4%9Fa-sad%C4%B1xov-55bb13318/) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hajiaghasadikhov)   [![X (Twitter)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hajiagha___)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajiaga-sadikhov/) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hajiagasadikhov)   [![X (Twitter)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thehajiaga)
 
 ## 💻 Tech Stack:
 ### Languages:
